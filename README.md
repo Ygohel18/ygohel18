@@ -2,7 +2,7 @@
 
 ## Follow me
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ygohel18?style=for-the-badge&logo=twitter&link=https://twitter.com/ygohel18)
+![Twitter Follow](https://img.shields.io/twitter/follow/ygohel18?style=for-the-badge&logo=twitter&link=https://twitter.com/ygohel18&url=https://twitter.com/ygohel18)
 
 <!--
 **Ygohel18/ygohel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
